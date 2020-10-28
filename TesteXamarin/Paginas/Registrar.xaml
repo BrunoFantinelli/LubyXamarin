@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TesteXamarin.ProjetoLuby.Registrar"
+             Title="Novo Usuário">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="Nome" Placeholder="Nome"></Entry>
+            <DatePicker x:Name="DataNascimento"></DatePicker>
+            <Entry x:Name="Telefone" Placeholder="Telefone" Keyboard="Telephone"></Entry>
+            <Entry x:Name="Email" Placeholder="Email" Keyboard="Email"></Entry>
+            <Entry x:Name="Senha" Placeholder="Senha" IsPassword="True"></Entry>
+            <Entry x:Name="ConfirmaSenha" Placeholder="Confirmar Senha" IsPassword="True"></Entry>
+            <Button Text="Cadastrar" Clicked="Cadastrar"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

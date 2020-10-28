@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TesteXamarin.ProjetoLuby.Login"
+             Title="Login">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="email" Keyboard="Email" Placeholder="Email" ></Entry>
+            <Entry x:Name="senha" Placeholder="Senha" IsPassword="True"></Entry>
+            <Button Text="Login" Clicked="TryLogin"></Button>
+            <Button Text="Registrar" Clicked="Register"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
