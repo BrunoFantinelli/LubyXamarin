@@ -10,8 +10,8 @@ C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin\obj\Debug\netstandard2.0\T
 C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin\obj\Debug\netstandard2.0\TesteXamarin.dll
 C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin\obj\Debug\netstandard2.0\ref\TesteXamarin.dll
 C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin\obj\Debug\netstandard2.0\TesteXamarin.pdb
+C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin\obj\Debug\netstandard2.0\Paginas\Login.xaml.g.cs
+C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin\obj\Debug\netstandard2.0\Paginas\Registrar.xaml.g.cs
+C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin\obj\Debug\netstandard2.0\Paginas\ListaUsuario.xaml.g.cs
 C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin\obj\Debug\netstandard2.0\TesteXamarin.csproj.CoreCompileInputs.cache
 C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin\obj\Debug\netstandard2.0\Paginas\Login.xaml.g.cs
-C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin\obj\Debug\netstandard2.0\Paginas\Principal.xaml.g.cs
-C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin\obj\Debug\netstandard2.0\Paginas\Registrar.xaml.g.cs

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TesteXamarin.Paginas.ListaUsuario"
+             Title="Lista Usuários">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="Lista" RowHeight="100">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label x:Name="Nome" Text="{Binding Nome}"></Label>
+                                <Label x:Name="Email" Text="{Binding Email}"></Label>
+                                <Label x:Name="Telefone" Text="{Binding Telefone}"></Label>
+                                <Label x:Name="DataNascimento" Text="{Binding DataNascimento}"></Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

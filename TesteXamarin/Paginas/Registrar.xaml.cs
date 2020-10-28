@@ -23,11 +23,11 @@ namespace TesteXamarin.ProjetoLuby
                 return;
             }
 
-            /*if ((DateTime.Now.Year - DataNascimento.Date.Year) < 18)
+            if ((DateTime.Now.Year - DataNascimento.Date.Year) < 18)
             {
                 await DisplayAlert("Erro", "Você tem que ter mais de 18 anos.", "Ok");
                 return;
-            }*/
+            }
 
             if (!Email.Text.Contains("@"))
             {
@@ -44,7 +44,7 @@ namespace TesteXamarin.ProjetoLuby
 
                 user.ID = 0;
                 user.Nome = Nome.Text;
-                user.DataNascimento = DataNascimento.Date;
+                user.DataNascimento = DataNascimento.Date.ToString("dd/MM/yyyy");
                 user.Telefone = Telefone.Text;
                 user.Email = Email.Text;
                 user.Senha = Security.Security.encryptSHA256(Senha.Text);

@@ -471,3 +471,4 @@ C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin.Android\obj\Debug\90\andro
 C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin.Android\obj\Debug\90\android\assets\System.Buffers.dll
 C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin.Android\obj\Debug\90\android\assets\System.Memory.dll
 C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bruno\source\repos\TesteXamarin\TesteXamarin.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll

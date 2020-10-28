@@ -18,7 +18,7 @@ namespace TesteXamarin
             {
                 if (database == null)
                 {
-                    database = new UsuarioDatabase(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "Usuarios.db3"));
+                    database = new UsuarioDatabase(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "Usuario.db3"));
                 }
                 return database;
             }

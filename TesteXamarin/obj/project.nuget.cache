@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pThFhcsdcTrfeBXO6uvoTYG62csrS+D7mwWFekb6J9Uk5L0gknmYieE/K0JjfeFlAJnJABN9AE4nC119kpTlEg==",
+  "dgSpecHash": "X8TRT7NYXj0qnmOEgeuuHVZQr4DkdgjlbusEFPval15QqFx29UCEZujS0Aiwhtq+dV524YMgHqDe0rOyhcGfjw==",
   "success": true,
   "projectFilePath": "C:\\Users\\bruno\\source\\repos\\TesteXamarin\\TesteXamarin\\TesteXamarin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",

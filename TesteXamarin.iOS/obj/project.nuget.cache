@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hf+r0suCJs2gksXnGb6jWJW7jPLpOT9Oqo5HPjOEEnaspi1G7dUgQURxhgo4EeVt7/jRVjpWVJhiG8O6C/2maA==",
+  "dgSpecHash": "o921EqrbqjgICsgCZRV851ozhVDGcmfBV5XU/FeHpBbH/FbspE5DfO4jkyMgK1y9AiW8N3U411hCJLvBgGWn1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\bruno\\source\\repos\\TesteXamarin\\TesteXamarin.iOS\\TesteXamarin.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
