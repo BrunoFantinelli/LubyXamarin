@@ -47,7 +47,7 @@ namespace TesteXamarin.Data
             }
         }
 
-        public Task<int> DeleteNoteAsync(Usuario user)
+        public Task<int> DeleteUsuarioAsync(Usuario user)
         {
             return _database.DeleteAsync(user);
         }

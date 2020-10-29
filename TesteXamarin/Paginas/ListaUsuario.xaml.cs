@@ -26,7 +26,7 @@ namespace TesteXamarin.Paginas
 
             List<Usuario> usuarios = await App.Database.GetUsuariosAsync();
 
-            foreach(Usuario user in usuarios)
+            foreach (Usuario user in usuarios)
             {
                 user.Nome = "Nome: " + user.Nome;
                 user.DataNascimento = "Nascimento: " + user.DataNascimento;
@@ -36,6 +36,7 @@ namespace TesteXamarin.Paginas
 
             Lista.ItemsSource = usuarios;
         }
+
 
     }
 }
